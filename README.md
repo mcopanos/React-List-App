@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This list app demonstrates how to work with input values in React and displaying content to the user. This app was created using Reach Hooks such as, useState() and uesRef(). I also added React Bootstrap for styling. You can clone this project, downlaod the dependicies and run npm run start to have this on your local machine. 
 
 ## Available Scripts
 
